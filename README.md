@@ -16,7 +16,7 @@ We propose a novel end-to-end structure-aware flow generation framework for huma
 
 
 ## BR5K Dataset
-Considering that the misuse of the dataset may lead to ethical concerns, as recommended by AC, we will review the application to access the datasets. To be able to download the BR5K database, please download, sign and return the [agreement form](https://raw.githubusercontent.com/JianqiangRen/FlowBasedBodyReshaping/main/EULA/EULA0310.pdf) to this e-mail address([jianqiang.rjq@alibaba-inc.com](jianqiang.rjq@alibaba-inc.com)).
+Considering that the misuse of the dataset may lead to ethical concerns, as recommended by AC, we will review the application to access the datasets. To be able to download the BR5K database, please download, sign the [agreement form](https://raw.githubusercontent.com/JianqiangRen/FlowBasedBodyReshaping/main/EULA/EULA0310.pdf), and then use your work e-mail(e.g., xx@xx.edu.cn,  xx@your_company.com) to send the form to ([jianqiang.rjq@alibaba-inc.com](jianqiang.rjq@alibaba-inc.com)).
 
  
 ## License
