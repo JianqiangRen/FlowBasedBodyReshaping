@@ -8,6 +8,9 @@ Structure-Aware Flow Generation for Human Body Reshaping
 
 [Paper](https://arxiv.org/abs/2203.04670) | [Demo Video](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/350344036910.mp4)
 
+
+We have body reshaping product that can be used commercially. For commercial requests, please contact us at jianqiang.rjq@alibaba-inc.com or miaomiao.cmm@alibaba-inc.com. 
+
 ## Overview
 We propose a novel end-to-end structure-aware flow generation framework for human body reshaping, which can achieve favorable and controllable results for high-resolution images efficiently. The BR-5K is the first large-scale dataset for body reshaping, it consists of 5,000 high-quality individual portrait photos at 2K resolution collected from [Unsplash](https://unsplash.com/).
 
