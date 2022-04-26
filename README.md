@@ -6,6 +6,8 @@ Structure-Aware Flow Generation for Human Body Reshaping
 
 [Jianqiang Ren](rjq235@gmail.com), Yuan Yao, Biwen Lei, Miaomiao Cui, Xuansong Xie 
 
+[DAMO Academy, Alibaba Group](https://damo.alibaba.com), Hangzhou, China
+
 [Paper](https://arxiv.org/abs/2203.04670) | [Demo Video](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/350344036910.mp4)
 
 
