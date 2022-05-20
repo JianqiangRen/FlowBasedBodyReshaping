@@ -1,14 +1,14 @@
 
 
-Structure-Aware Flow Generation for Human Body Reshaping
+Structure-Aware Flow Generation for Human Body Reshaping (CVPR 2022)
 =====
 
 
-[Jianqiang Ren](rjq235@gmail.com), Yuan Yao, Biwen Lei, Miaomiao Cui, Xuansong Xie 
+[Jianqiang Ren](rjq235@gmail.com), Yuan Yao, Biwen Lei, Miaomiao Cui, Xuansong Xie  
 
 [DAMO Academy, Alibaba Group](https://damo.alibaba.com), Hangzhou, China
 
-[Paper](https://arxiv.org/abs/2203.04670) | [Demo Video](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/350344036910.mp4)
+[Paper](https://arxiv.org/abs/2203.04670) | [Video](https://www.youtube.com/watch?v=U7MTOXm4Uhc&t=130s) | [More Results](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/350344036910.mp4)
 
 
 ## Commercial Cooperation
