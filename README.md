@@ -24,7 +24,23 @@ We propose a novel end-to-end structure-aware flow generation framework for huma
 ## BR5K Dataset
 Considering that the misuse of the dataset may lead to ethical concerns, as recommended by AC, we will review the application to access the datasets. To be able to download the BR5K database, please download, sign the [agreement form](https://raw.githubusercontent.com/JianqiangRen/FlowBasedBodyReshaping/main/EULA/EULA0310.pdf), and then use your work e-mail(e.g., xx@xx.edu.cn,  xx@your_company.com) to send the form to ([jianqiang.rjq@alibaba-inc.com](jianqiang.rjq@alibaba-inc.com)).
 
- 
+
+## Citation
+If our work is useful for your research, please consider citing:
+
+
+	@inproceedings{ren2022structure,
+	title={Structure-Aware Flow Generation for Human Body Reshaping},
+	author={Ren, Jianqiang and Yao, Yuan and Lei, Biwen and Cui, Miaomiao and Xie, Xuansong},
+	booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+	pages={7754--7763},
+	year={2022}
+	}
+
+## Acknowledgement
+We express gratitudes to [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
+and [pytorch-openpose](https://github.com/Hzzone/pytorch-openpose), as we benefit a lot from both their papers and codes.
+
 ## License
 © Alibaba, 2022. For academic and non-commercial use only.
  
