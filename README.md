@@ -8,7 +8,7 @@ Structure-Aware Flow Generation for Human Body Reshaping (CVPR 2022)
 
 [DAMO Academy, Alibaba Group](https://damo.alibaba.com), Hangzhou, China
 
-[Paper](https://arxiv.org/abs/2203.04670) | [Video](https://www.youtube.com/watch?v=U7MTOXm4Uhc&t=130s) | [More Results](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/350344036910.mp4)
+[Paper](https://arxiv.org/abs/2203.04670) | [Supp](https://drive.google.com/file/d/1wZDQK5I1PG9DYpKJHDS5NH9DCsQ3FUD1/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=U7MTOXm4Uhc&t=130s) | [More Results](https://cloud.video.taobao.com/play/u/null/p/1/e/6/t/1/d/ud/350344036910.mp4)
 
 
 ## Commercial Cooperation
