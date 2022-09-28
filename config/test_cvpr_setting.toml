@@ -1,0 +1,18 @@
+
+degree = 1.0
+
+suppress_bg = true
+
+flow_scales = ['upper_2']
+
+divider = 20
+
+reshape_ckpt_path = 'models/body_reshape_model.pth'
+# ssim of pred/gt :0.8393699869513511
+# psnr of pred/gt :25.58005929694026
+# lpips of pred/gt :0.06836898480728269
+
+
+src_dir = './dataset/test_crop/src'
+gt_dir = './dataset/test_crop/gt'
+save_dir = './test_output'
