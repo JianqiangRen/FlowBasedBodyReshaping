@@ -12,7 +12,7 @@ Structure-Aware Flow Generation for Human Body Reshaping (CVPR 2022)
 
 
 ## News
-(2022-09-28) The pertained model and code are available now.
+(2022-09-28) The pretrained model and code are available now.
 
 
 ## Overview
