@@ -32,9 +32,9 @@ Considering that the misuse of the dataset may lead to ethical concerns, as reco
 * numba
 
 ### Models
-* Download the pose estimator model body_pose_model.pth from [here](https://github.com/Hzzone/pytorch-openpose).
-* Download the reshaping model pytorch_model.pt from [here](https://www.modelscope.cn/models/damo/cv_flow-based-body-reshaping_damo/files) and rename it to body_reshape_model.pth.
-* Put body_pose_model.pth and body_reshape_model.pth into models directory.
+* Download the pose estimator model `body_pose_model.pth` from [here](https://github.com/Hzzone/pytorch-openpose).
+* Download the reshaping model `pytorch_model.pt` from [here](https://www.modelscope.cn/models/damo/cv_flow-based-body-reshaping_damo/files) and rename it to body_reshape_model.pth.
+* Put body_pose_model.pth and body_reshape_model.pth into the `models` folder.
 
 
 ### Run the Demo
