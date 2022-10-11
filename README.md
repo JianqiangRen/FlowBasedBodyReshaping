@@ -16,7 +16,7 @@ Structure-Aware Flow Generation for Human Body Reshaping (CVPR 2022)
 
 
 ## Overview
-We propose a novel end-to-end structure-aware flow generation framework for human body reshaping, which can achieve favorable and controllable results for high-resolution images efficiently. The BR-5K is the first large-scale dataset for body reshaping, it consists of 5,000 high-quality individual portrait photos at 2K resolution collected from [Unsplash](https://unsplash.com/).
+We propose a novel end-to-end structure-aware flow generation framework for human body reshaping(FBBR), which can achieve favorable and controllable results for high-resolution images efficiently. The BR-5K is the first large-scale dataset for body reshaping, it consists of 5,000 high-quality individual portrait photos at 2K resolution collected from [Unsplash](https://unsplash.com/).
 
 <img src="gif/438.gif" height="300px"/> <img src="gif/285.gif" height="300px"/> <img src="gif/998.gif" height="300px"/>
 
